@@ -49,9 +49,6 @@ I enjoy turning complex requirements into clean, maintainable code.
 
 ---
 
-
----
-
 ## Contact
 
 - 📧 Email: `contact.rajakhan@gmail.com`
