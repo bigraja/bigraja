@@ -49,20 +49,11 @@ I enjoy turning complex requirements into clean, maintainable code.
 
 ---
 
-## Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| _Your project name_ | _Brief description_ | _e.g. Node.js, MongoDB_ |
-| _Your project name_ | _Brief description_ | _e.g. Laravel, MySQL_ |
-| _Your project name_ | _Brief description_ | _e.g. Express, PostgreSQL_ |
-
-> Replace the rows above with links to your actual repositories.
 
 ---
 
 ## Contact
 
 - 📧 Email: `contact.rajakhan@gmail.com`
-- 💼 LinkedIn: _Add your LinkedIn profile URL here_
+- 💼 Mobile: 01866370585 
 
